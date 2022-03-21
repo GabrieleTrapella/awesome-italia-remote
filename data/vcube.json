@@ -1,0 +1,26 @@
+{
+    "name": "Vcube",
+    "career_page_url": "https://www.vcube.it/news/",
+    "url": "https://www.vcube.it/",
+    "remote_policy": "Hybrid",
+    "hiring_policy": "Direct",
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "Ansible",
+        "Automation",
+        "Azure",
+        "DevOps",
+        "Docker",
+        "Elasticsearch",
+        "ELK",
+        "Jenkins",
+        "Kubernetes",
+        "Linux",
+        "Openshift",
+        "Terraform",
+        "VMware"
+    ]
+}
